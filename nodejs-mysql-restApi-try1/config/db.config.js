@@ -1,7 +1,7 @@
 module.exports = {
   HOST: "localhost",
   USER: "root", //biasanya root
-  PASSWORD: "anugrah17", //kalau ada diisi, kalau tidak isi dengan ""
+  PASSWORD: "password", //kalau ada diisi, kalau tidak isi dengan ""
   DB: "testDB"
 };
 
