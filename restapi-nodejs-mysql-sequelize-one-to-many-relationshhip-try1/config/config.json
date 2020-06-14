@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "anugrah17",
+    "password": "password",
     "database": "medium_sequelize_one_to_many",
     "host": "127.0.0.1",
     "dialect": "mysql",
